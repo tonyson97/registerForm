@@ -1,0 +1,15 @@
+element.style {
+}
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, var(--main-blue), var(--main-purple));
+    padding: 10px;
+}
+.container {
+    font-size: 25px;
+    font-weight: bold;
+    
+}
